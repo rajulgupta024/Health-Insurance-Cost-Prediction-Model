@@ -27,7 +27,7 @@ Get Started:
 
 Ready to contribute? Follow these steps to get started:
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/your_username/health-insurance-cost-prediction.git
+Clone the Repository: Clone this repository to your local machine using git clone [https://github.com/your_username/health-insurance-cost-prediction.git](https://github.com/rajulgupta024/Health-Insurance-Cost-Prediction-Model)
 
 Explore the Data: Dive into the dataset provided in the data directory to understand the features and target variable.
 
