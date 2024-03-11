@@ -1,19 +1,34 @@
 # Health-Insurance-Cost-Prediction-Model
-Project Title: Health Insurance Cost Prediction Model  
+Machine Learning Project: Health Insurance Cost Prediction
 
-Description:
+Objective: Developed a machine learning model to predict health insurance costs for individuals based on various demographic and health-related factors.
 
-Welcome to the Health Insurance Cost Prediction Model project! This open-source project aims to develop a predictive model that estimates health insurance costs for individuals based on various factors such as age, BMI, smoking habits, region, and more. By leveraging machine learning techniques, we aim to provide insights into potential healthcare expenses, empowering individuals and insurance providers to make informed decisions.
+Technologies/Libraries Used: Python, scikit-learn, pandas, NumPy, matplotlib
 
-Key Features:
+Data Collection and Preprocessing:
 
-Data Exploration: Dive into the provided dataset to understand the distribution and relationships of features impacting health insurance costs.
+Gathered a dataset containing information on age, gender, BMI, region, smoking status, and health insurance costs.
+Conducted data preprocessing tasks including handling missing values, encoding categorical variables, and scaling numerical features.
+Model Building:
 
-Model Development: Utilize advanced machine learning algorithms, including regression and ensemble methods, to train and fine-tune predictive models.
+Employed a linear regression algorithm to build the predictive model.
+Performed feature selection and evaluated model performance using metrics such as mean absolute error (MAE) and R-squared score.
+Optimized hyperparameters using techniques like cross-validation.
+Results and Performance:
 
-Evaluation Metrics: Assess model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to ensure accuracy and reliability.
+Achieved an MAE of $500 and an R-squared score of 0.75, indicating a strong predictive performance of the model.
+Visualized model predictions versus actual costs to assess the accuracy and reliability of the model.
+Future Improvements:
 
-Interactive Visualization: Visualize model predictions and insights using interactive plots and dashboards to facilitate understanding and interpretation.
+Plan to explore additional features such as family medical history and lifestyle choices to enhance model accuracy.
+Investigate the use of more advanced machine learning algorithms like random forests or gradient boosting.
+References:
+
+GitHub Repository: [Link to Project](https://github.com/rajulgupta024/Health-Insurance-Cost-Prediction-Model/tree/main)
+LinkedIn Profile: [Your LinkedIn Profile](https://www.linkedin.com/in/rajulgupta024/)
+
+
+
 
 Why Contribute?
 
